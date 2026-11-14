@@ -1,4 +1,4 @@
-import{l as a,B as s,m as l,s as p,o as u,d,p as c}from"./index-CEGO0BkO.js";var f=a`
+import{l as a,B as s,m as l,s as p,o as u,d,p as c}from"./index-BIB5mSTq.js";var f=a`
     .p-skeleton {
         overflow: hidden;
         background: dt('skeleton.background');
